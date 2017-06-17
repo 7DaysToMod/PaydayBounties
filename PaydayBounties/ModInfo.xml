@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="PaydayBounties" />
+		<Description value="Bounties Addon for the PaydayLib mod" />
+		<Author value="Justin 'Chromecide' Pradier" />
+		<Version value="1" />
+		<Website value="https://github.com/7DaysToMod/PaydayBounties" />
+	</ModInfo>
+</xml>
